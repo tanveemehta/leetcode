@@ -5,8 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanveemehta/leetcode/tree/master/0001-two-sum) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/tanveemehta/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanveemehta/leetcode/tree/master/0001-two-sum) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/tanveemehta/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/tanveemehta/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
