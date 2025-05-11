@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tanveemehta/leetcode/tree/master/0001-two-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/tanveemehta/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/tanveemehta/leetcode/tree/master/1293-three-consecutive-odds) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tanveemehta/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Hash Table
 |  |
