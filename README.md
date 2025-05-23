@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tanveemehta/leetcode/tree/master/0075-sort-colors) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/tanveemehta/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/tanveemehta/leetcode/tree/master/1293-three-consecutive-odds) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/tanveemehta/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/tanveemehta/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Hash Table
 |  |
@@ -42,4 +43,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tanveemehta/leetcode/tree/master/0075-sort-colors) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/tanveemehta/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/tanveemehta/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Greedy
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/tanveemehta/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/tanveemehta/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Tree
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/tanveemehta/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
